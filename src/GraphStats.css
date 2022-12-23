@@ -1,0 +1,14 @@
+.title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.graph_heading {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.graph_heading h3 {
+  flex: 1;
+}
