@@ -1,3 +1,5 @@
+/* eslint-disable */ 
+
 import React, { useState, useEffect } from "react";
 // documentation for linegraph-chart.js - https://www.educative.io/edpresso/how-to-use-chartjs-to-create-charts-in-react
 import { Line } from "react-chartjs-2"; // React-charts-2 is a library that provides different charts to use in React applications. It is a wrapper for the popular JavaScript charts library Charts. js.
